@@ -10,10 +10,11 @@ const Header = ()=>{
 
     return (
     <header>
-        <NavLink  to='/subscribe' className={headerStyle.subscribe}>Subscribe to receive our updates</NavLink>
+        <NavLink  to='/subscribe' className={headerStyle.subscribe}>Subscribe here to receive our updates..!</NavLink>
         <NavLink  to='/' className={headerStyle.subscribe}>HOME</NavLink>
         <div className={headerStyle.banner}>
-            <img className={headerStyle.img} src="https://static01.nyt.com/images/2014/12/11/technology/personaltech/11machin-illo/11machin-illo-superJumbo-v3.jpg" alt="weather"/>
+            {/* <img className={headerStyle.img} src="https://static01.nyt.com/images/2014/12/11/technology/personaltech/11machin-illo/11machin-illo-superJumbo-v3.jpg" alt="weather"/> */}
+            <img className={headerStyle.img} src="./weatherr.png" alt="weather"/>
             <h1 className={headerStyle.title}>Weather Website</h1>
         </div>
     </header>)
