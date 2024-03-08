@@ -1,9 +1,7 @@
 # Weather Website
-This project goal's was to create a website that you can check the weather. Also, it has a subscribe area to receive a weather newsletter by email.
+This project goal is to create a website where you can check the current weather. Also, it has a subscribe area to receive a weather updates by email.
 
-This project was an assignment of our Integrify Bootcamp where we could work in group to create a React project.
-
-#### What I've practiced/learned:
+# Concept learned:
 - React:
     - components
     - props
@@ -22,14 +20,16 @@ This project was an assignment of our Integrify Bootcamp where we could work in 
     - fetching an API with Fetch
     - fetching an API with axios
     - post and delete on an API
-    - router
-    
+    - router   
     
 - Github:
     - requesting code review;
     - collaborators;
     - push and pull code from other
+ 
+  # How to run:
+    - npm install
+    - npm run
 
 
-
-You can check the project's video [here](https://youtu.be/zdw_-N67uJU)!
+You can check here.
